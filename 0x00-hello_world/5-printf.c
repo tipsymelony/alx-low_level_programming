@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
-    *
-    * main- The purpose of this file is to out
+    * main - Write a C program that prints exactly
     *
     * the string: with proper grammar, but the outcome is a piece of art
     *
@@ -17,6 +16,6 @@ int main(void)
 
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 
-	return 0;
+	return (0);
 
 }
