@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 /**
  *
  *  * main - Write a C program that prints exactly
@@ -22,6 +20,6 @@ int main(void)
 
 
 
-			return (0);
+		return (0);
 
 }
