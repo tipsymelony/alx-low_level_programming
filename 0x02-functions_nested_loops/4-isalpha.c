@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * __isalpha - checks letter
+ * _isalpha - checks letter
  * @c: caracter recibo por main.
  * Return: 1 if c is lowercase
  */
