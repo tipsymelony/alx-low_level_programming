@@ -2,7 +2,7 @@
 
 /**
  * print_times_table - prints times table
- * @n : print times table to use
+ * @n : times table to use
  * Return:void
  */
 
